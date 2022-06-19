@@ -1,0 +1,46 @@
+/* Outfit font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-softblue: hsl(215, 51%, 70%);
+  --primary-cyan: hsl(178, 100%, 50%);
+  
+  --main-bg-color: hsl(217, 54%, 11%);
+  --card-bg-color: hsl(216, 50%, 16%);
+  --line-bg-color: hsl(215, 32%, 27%);
+  --white-bg-color: hsl(0, 0%, 100%);
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile */
+@media screen and (max-width: 375px) {
+  
+}
+
+/* Desktop */
+@media screen and (max-width: 1440px) {
+
+}
