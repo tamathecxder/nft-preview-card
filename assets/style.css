@@ -82,6 +82,27 @@ body {
   line-height: 34px;
 }
 
+.card-body .sell-description {
+  padding: 32px 0;
+}
+
+.card-body .eth-price {
+  position: absolute;
+  left: 30px;
+  text-align: start;
+  font-size: 22px;
+  color: var(--primary-cyan);
+}
+
+.card-body .deadline {
+  position: absolute;
+  right: 30px;
+  font-size: 22px;
+  text-align: end;
+  color: var(--primary-softblue);
+}
+
+
 
 
 
