@@ -102,6 +102,37 @@ body {
   color: var(--primary-softblue);
 }
 
+/* Card footer style */
+.card-footer {
+  padding: 30px;
+}
+
+.nft-owner {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 10px;
+}
+
+.nft-owner .creation-desc {
+  color: var(--primary-softblue);
+  font-size: 22px;
+}
+
+.nft-owner .text-owner-name {
+  color: var(--white-bg-color);
+}
+
+.img-avatar {
+  border-radius: 50%;
+  width: 12%;
+  border: 2px solid var(--white-bg-color);
+}
+
+.horizontal-line {
+  border-top: 0.6px solid var(--line-bg-color);
+  margin-bottom: 24px;
+}
 
 
 
