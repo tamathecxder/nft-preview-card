@@ -20,13 +20,17 @@
 body {
   font-family: 'Outfit', sans-serif;
   font-size: 18px;
+  background-color: var(--main-bg-color);
+  color: var(--primary-cyan);
+  height: auto;
+  width: 100%;
 }
 
-
-
-
-
-
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+}
 
 
 
