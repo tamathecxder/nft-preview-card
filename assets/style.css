@@ -64,6 +64,24 @@ body {
   display: none;
 }
 
+/* Card body style */
+.card-body {
+  padding: 30px 30px 10px 30px;
+  margin-top: -36px;
+  position: relative;
+}
+
+.card-body h1 {
+  color: var(--white-bg-color);
+  margin-bottom: 16px;
+}
+
+.card-body p {
+  color: var(--primary-softblue);
+  font-size: 24px;
+  line-height: 34px;
+}
+
 
 
 
