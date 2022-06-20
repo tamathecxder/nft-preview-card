@@ -35,6 +35,30 @@ body {
 
 
 
+/* Bootstrap reference class */
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.row {
+  margin: 100px 0;
+  display: flex;
+}
+
+.col-12 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.col-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
 
 
 
